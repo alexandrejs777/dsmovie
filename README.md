@@ -1,7 +1,7 @@
 # dsmovie
 Projeto criado na Semana Spring React DevSuperior
 # Big Game Survey 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/alexandrejs777/dsmovie/blob/main/LICENSE) 
 
 # Sobre o projeto
 
