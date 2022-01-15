@@ -1,5 +1,5 @@
 # DSMovie
-Projeto criado na Semana Spring React DevSuperior
+Projeto de estudo criado na Semana Spring React DevSuperior.
 
 #
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/alexandrejs777/dsmovie/blob/main/LICENSE) 
