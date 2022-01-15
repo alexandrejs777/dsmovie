@@ -1,6 +1,17 @@
 # DSMovie
 Projeto de estudo criado na Semana Spring React DevSuperior.
 
+![Spring](https://github.com/alexandrejs777/assets/blob/main/DSMovies/icons/spring.svg)
+![React](https://github.com/alexandrejs777/assets/blob/main/DSMovies/icons/react.svg)
+
+![Java](https://github.com/alexandrejs777/assets/blob/main/DSMovies/icons/java.png)
+![JavaScript](https://github.com/alexandrejs777/assets/blob/main/DSMovies/icons/javascript.png)
+![TypeScript](https://github.com/alexandrejs777/assets/blob/main/DSMovies/icons/typescript.png)
+![Postman](https://github.com/alexandrejs777/assets/blob/main/DSMovies/icons/postman.png)
+![GitHub](https://github.com/alexandrejs777/assets/blob/main/DSMovies/icons/github.png)
+![Heroku](https://github.com/alexandrejs777/assets/blob/main/DSMovies/icons/heroku.png)
+![PostgreSQL](https://github.com/alexandrejs777/assets/blob/main/DSMovies/icons/postgresql.png)
+
 #
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/alexandrejs777/dsmovie/blob/main/LICENSE) 
 
@@ -74,6 +85,10 @@ yarn install
 # executar o projeto
 yarn start
 ```
+
+# Agradecimentos
+
+Ao Professor [Nélio Alves](https://www.linkedin.com/in/nelio-alves/), a toda a equipe da [DevSuperior](https://www.linkedin.com/school/devsuperior/) e aos colegas que com suas dúvidas e respostas ajudaram na solução dos problemas.
 
 # Autor
 
