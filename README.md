@@ -30,6 +30,8 @@ A aplicação consiste em uma lista de filmes onde os usuários classificam cada
 
 ![Tela form](https://github.com/alexandrejs777/assets/blob/main/DSMovies/Tela_Form.png)
 
+![Video](https://github.com/alexandrejs777/assets/blob/main/DSMovies/videos/DSMovies.gif)
+
 ## Layout responsivo
 ![Tela principal responsivo](https://github.com/alexandrejs777/assets/blob/main/DSMovies/Tela_Principal_Responsivo.png)
 
@@ -44,7 +46,7 @@ A aplicação consiste em uma lista de filmes onde os usuários classificam cada
 
 ## Back-end
 - Java
-- Spring Tool
+- Spring Boot
 - JPA
 - Maven
 
